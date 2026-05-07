@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex.gz
+*.bbl
+*.blg
+*.run.xml
+*.fls
+*.fdb_latexmk
+*.bcf
+
+# Overleaf specific
+*.vrb
+*.snm
+*.nav
+
+# PDF compiled (optional – keep if you want to avoid accidental overwrite;
+# you already have report.pdf, so you can either keep it tracked or add it here)
+# If you want to avoid accidentally committing PDF, uncomment:
+# *.pdf
